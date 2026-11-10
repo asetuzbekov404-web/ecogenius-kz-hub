@@ -1,0 +1,6 @@
+{
+  "name": "ECOGENIUS KZ HUB",
+  "description": "Асүй қалдықтарынан құнды экологиялық өнімдер жасауға арналған интерактивті танымдық платформа",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
